@@ -72,7 +72,7 @@ If the website of partner built by WordPress, integration using the plugin may b
 - [Integration Tutorial for WordPress](https://github.com/cpayfinance/document/blob/main/wordpress-plugin-reference/wordpress-plugin.md)
 
 
-## How to Work
+## How `CPay Payment Gateway` Work
 
 ### Mode 1
 In this mode, the checkout page of bank will be used for payment using credit card.
